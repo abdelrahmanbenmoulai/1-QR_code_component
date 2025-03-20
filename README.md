@@ -19,9 +19,9 @@ This project is a simple QR code component that displays a QR code along with a 
 
 ## Screenshot
 
-![](/home/abdelrahman/Pictures/Screenshots/Screenshot from 2025-03-20 02-27-54.png)
+![image-20250320023830217](/home/abdelrahman/snap/typora/96/.config/Typora/typora-user-images/image-20250320023830217.png)
 
-![](/home/abdelrahman/Pictures/Screenshots/Screenshot from 2025-03-20 02-26-34.png)
+![image-20250320023922745](/home/abdelrahman/snap/typora/96/.config/Typora/typora-user-images/image-20250320023922745.png)
 
 ## Links
 
@@ -56,7 +56,7 @@ During this project, I improved my understanding of:
 
 ## Author
 
-- **Frontend Mentor:** @yourusername
-- **GitHub:** [yourgithub](https://github.com/yourgithub)
+- **Frontend Mentor:** @abdelrahmanbenmoulai
+- **GitHub:** [abdelrahmanbenmoulai](https://github.com/abdelrahmanbenmoulai)
 
 **Thank you for checking out my project!** 🎉
