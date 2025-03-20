@@ -56,7 +56,7 @@ During this project, I improved my understanding of:
 
 ## Author
 
-- **Frontend Mentor:** @yourusername
+- **Frontend Mentor:** @abdelrahmanbenmoulai
 - **GitHub:** [abdelrahmanbenmoulai](https://github.com/abdelrahmanbenmoulai)
 
 **Thank you for checking out my project!** 🎉
