@@ -26,7 +26,7 @@ This project is a simple QR code component that displays a QR code along with a 
 ## Links
 
 - **Solution URL:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-3KFVcaZ3HK)
-- **Live Site URL:** [Live Preview](http://127.0.0.1:5500/frontend_mentor_projects/qr-code-component-main/index.html)
+- **Live Site URL:** [Live Preview](https://abdelrahmanbenmoulai.github.io/1-QR_code_component/)
 
 ## Built With
 
