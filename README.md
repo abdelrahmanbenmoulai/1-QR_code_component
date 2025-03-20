@@ -19,9 +19,9 @@ This project is a simple QR code component that displays a QR code along with a 
 
 ## Screenshot
 
-![image-20250320023830217](/home/abdelrahman/snap/typora/96/.config/Typora/typora-user-images/image-20250320023830217.png)
+![](/images/Screenshot01.png)
 
-![image-20250320023922745](/home/abdelrahman/snap/typora/96/.config/Typora/typora-user-images/image-20250320023922745.png)
+![](/images/Screenshot02.png)
 
 ## Links
 
