@@ -24,6 +24,9 @@
         font-family: outfit, sans-serif;
         background-color: hsl(212, 45%, 89%);
       }
+      h1 {
+        display: none;
+      }
       .container {
         display: flex;
         flex-direction: column;
@@ -72,7 +75,9 @@
     </style>
   </head>
   <body>
-    <div class="container">
+    <main>
+      <h1>QR Code Component</h1>
+      <div class="container">
       <div class="qr-code">
         <img src="images/image-qr-code.png" alt="QR code image" />
       </div>
@@ -86,5 +91,6 @@
         the next level
       </p>
     </div>
+  </main>
   </body>
 </html>
