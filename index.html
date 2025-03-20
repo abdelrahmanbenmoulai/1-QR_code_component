@@ -1,28 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Frontend Mentor | QR code component</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: outfit, sans-serif;
+        background-color: hsl(212, 45%, 89%);
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border-radius: 20px;
+        background-color: hsl(0, 0%, 100%);
+        box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+        padding: 15px;
+      }
+      img {
+        width: 230px;
+        height: 230px;
+        border-radius: 10px;
+      }
+      h4 {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: hsl(218, 44%, 22%);
+        margin-top: 18px;
+      }
+      p {
+        font-size: 0.8rem;
+        font-weight: 400;
+        color: hsl(216, 15%, 48%);
+        margin-top: -10px;
+      }
+      @media (max-width: 440px) {
+        .container {
+          width: 80%;
+        }
+        img {
+          width: 80vw;
+          height: 80vw;
+        }
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | QR code component</title>
+        h4 {
+          font-size: 1.4rem;
+        }
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-</head>
-<body>
-
-  Improve your front-end skills by building projects
-
-  Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-  
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
-</body>
+        p {
+          font-size: 1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="qr-code">
+        <img src="images/image-qr-code.png" alt="QR code image" />
+      </div>
+      <h4>
+        Improve your front-end<br />
+        skills by building projects
+      </h4>
+      <p>
+        Scan the QR code to visit frontend<br />
+        Mentor and take your coding skills to<br />
+        the next level
+      </p>
+    </div>
+  </body>
 </html>
